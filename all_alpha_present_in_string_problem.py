@@ -1,3 +1,4 @@
+# script to find all unique alpha in a given file 
 import string
 count=int(raw_input())
 str_lst=[]
